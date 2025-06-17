@@ -3,11 +3,11 @@
 ## 📚 Data Structures
 
 ### Basic
-- [X] Array  
-- [X] Singly Linked List  
+- ✅ Array  
+- ✅ Singly Linked List  
 - [ ] Doubly Linked List  
-- [X] Stack (LIFO)  
-- [X] Queue (FIFO)  
+- ✅ Stack (LIFO)  
+- ✅ Queue (FIFO)  
 - [ ] Deque (Double-ended Queue)
 
 ### Maps and Sets
@@ -19,7 +19,7 @@
 ### Advanced
 - [ ] Heap (Min-Heap / Max-Heap)  
 - [ ] Priority Queue  
-- [X] Trie (Prefix Tree)  
+- ✅ Trie (Prefix Tree)  
 - [ ] Union-Find / Disjoint Set  
 - [ ] Segment Tree  
 - [ ] Fenwick Tree (Binary Indexed Tree)
@@ -45,11 +45,11 @@
 - [ ] Strongly Connected Components (Tarjan / Kosaraju)
 
 ### Sorting
-- [X] Bubble Sort  
-- [X] Insertion Sort  
-- [X] Selection Sort  
+- ✅ Bubble Sort  
+- ✅ Insertion Sort  
+- ✅ Selection Sort  
 - [ ] Merge Sort  
-- [X] Quick Sort  
+- ✅ Quick Sort  
 - [ ] Heap Sort  
 - [ ] Counting Sort  
 - [ ] Radix Sort
@@ -66,14 +66,14 @@
 
 ## ⚙️ Complexity and Theory
 
-- [X] Big-O Notation  
+- ✅ Big-O Notation  
 - [ ] Big-Ω (Omega) Notation  
 - [ ] Big-Θ (Theta) Notation  
 - [ ] Real vs Asymptotic Time  
 - [ ] Best, Worst, and Average Case Analysis
 
 ### Problem-Solving Strategies
-- [X] Divide and Conquer  
+- ✅ Divide and Conquer  
 - [ ] Greedy Algorithms  
 - [ ] Backtracking  
 - [ ] Branch and Bound  
@@ -90,7 +90,7 @@
 
 ### Databases
 - [ ] Relational Model  
-- [X] SQL: SELECT, INSERT, UPDATE, DELETE  
+- ✅ SQL: SELECT, INSERT, UPDATE, DELETE  
 - [ ] JOIN operations  
 - [ ] Normalization
 
@@ -106,21 +106,21 @@
 
 ## 🧰 Professional Practice
 
-- [X] Git Basics (add, commit, push, pull)  
-- [X] Git Branching and Merging  
+- ✅ Git Basics (add, commit, push, pull)  
+- ✅ Git Branching and Merging  
 - [ ] Unit Testing  
 - [ ] Test-Driven Development (TDD)  
-- [X] IDE Usage (VS Code, IntelliJ, etc.)  
-- [X] Debugging and Profiling Tools  
+- ✅ IDE Usage (VS Code, IntelliJ, etc.)  
+- ✅ Debugging and Profiling Tools  
 - [ ] Linters and Formatters
 
 ---
 
 ## 💡 Math and Logic
 
-- [X] Propositional and Boolean Logic  
+- ✅ Propositional and Boolean Logic  
 - [ ] Modular Arithmetic  
-- [X] Factorials, Permutations, Combinations  
-- [X] Basic Probability  
-- [X] Matrices  
-- [X] Basic Linear Algebra (vectors, dot product)
+- ✅ Factorials, Permutations, Combinations  
+- ✅ Basic Probability  
+- ✅ Matrices  
+- ✅ Basic Linear Algebra (vectors, dot product)

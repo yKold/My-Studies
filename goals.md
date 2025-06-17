@@ -1,126 +1,126 @@
-# ✅ Checklist de Conhecimentos Essenciais para Desenvolvedor
+# ✅ Essential Developer Knowledge Checklist
 
-## 📚 Estruturas de Dados
+## 📚 Data Structures
 
-### Básicas
-- [ ] Array / Vetor  
-- [ ] Lista ligada (simples)  
-- [ ] Lista duplamente ligada  
-- [ ] Stack (Pilha) – LIFO  
-- [ ] Queue (Fila) – FIFO  
-- [ ] Deque (Fila dupla)
+### Basic
+- [X] Array  
+- [X] Singly Linked List  
+- [ ] Doubly Linked List  
+- [X] Stack (LIFO)  
+- [X] Queue (FIFO)  
+- [ ] Deque (Double-ended Queue)
 
-### Mapas e Conjuntos
-- [ ] HashMap (mapa chave-valor, sem ordem)  
-- [ ] HashSet (conjunto sem repetições, sem ordem)  
-- [ ] TreeMap (mapa ordenado)  
-- [ ] TreeSet (conjunto ordenado)
+### Maps and Sets
+- [ ] HashMap (unordered key-value pairs)  
+- [ ] HashSet (unordered, unique elements)  
+- [ ] TreeMap (ordered key-value pairs)  
+- [ ] TreeSet (ordered, unique elements)
 
-### Avançadas
+### Advanced
 - [ ] Heap (Min-Heap / Max-Heap)  
-- [ ] Priority Queue (Fila de prioridades)  
-- [ ] Trie (Árvore de prefixos)  
+- [ ] Priority Queue  
+- [X] Trie (Prefix Tree)  
 - [ ] Union-Find / Disjoint Set  
 - [ ] Segment Tree  
 - [ ] Fenwick Tree (Binary Indexed Tree)
 
 ---
 
-## 🧠 Algoritmos Fundamentais
+## 🧠 Core Algorithms
 
-### Busca
-- [ ] Busca Linear  
-- [ ] Busca Binária  
-- [ ] Busca Exponencial
+### Search
+- [ ] Linear Search  
+- [ ] Binary Search  
+- [ ] Exponential Search
 
-### Grafos
+### Graphs
 - [ ] DFS (Depth-First Search)  
 - [ ] BFS (Breadth-First Search)  
-- [ ] Dijkstra  
-- [ ] Bellman-Ford  
-- [ ] Floyd-Warshall  
-- [ ] Kruskal  
-- [ ] Prim  
+- [ ] Dijkstra’s Algorithm  
+- [ ] Bellman-Ford Algorithm  
+- [ ] Floyd-Warshall Algorithm  
+- [ ] Kruskal’s Algorithm  
+- [ ] Prim’s Algorithm  
 - [ ] Topological Sort  
-- [ ] Tarjan / Kosaraju (componentes fortemente conectados)
+- [ ] Strongly Connected Components (Tarjan / Kosaraju)
 
-### Ordenação
-- [ ] Bubble Sort  
-- [ ] Insertion Sort  
-- [ ] Selection Sort  
+### Sorting
+- [X] Bubble Sort  
+- [X] Insertion Sort  
+- [X] Selection Sort  
 - [ ] Merge Sort  
-- [ ] Quick Sort  
+- [X] Quick Sort  
 - [ ] Heap Sort  
 - [ ] Counting Sort  
 - [ ] Radix Sort
 
-### Programação Dinâmica
-- [ ] Conceito de subproblemas e memoization  
-- [ ] Fibonacci com DP  
-- [ ] Subsequência comum mais longa (LCS)  
-- [ ] Knapsack (Mochila)  
+### Dynamic Programming
+- [ ] Subproblem Optimization & Memoization  
+- [ ] Fibonacci with DP  
+- [ ] Longest Common Subsequence (LCS)  
+- [ ] Knapsack Problem  
 - [ ] Rod Cutting  
-- [ ] DP com bitmask
+- [ ] Bitmask Dynamic Programming
 
 ---
 
-## ⚙️ Complexidade e Teoria
+## ⚙️ Complexity and Theory
 
-- [ ] Notação Big-O  
-- [ ] Notação Big-Ω (Ômega)  
-- [ ] Notação Big-Θ (Teta)  
-- [ ] Diferença entre tempo real e assintótico  
-- [ ] Análise de pior/melhor/caso médio
+- [X] Big-O Notation  
+- [ ] Big-Ω (Omega) Notation  
+- [ ] Big-Θ (Theta) Notation  
+- [ ] Real vs Asymptotic Time  
+- [ ] Best, Worst, and Average Case Analysis
 
-### Estratégias de Projeto
-- [ ] Divisão e conquista  
-- [ ] Gananciosos (Greedy)  
+### Problem-Solving Strategies
+- [X] Divide and Conquer  
+- [ ] Greedy Algorithms  
 - [ ] Backtracking  
 - [ ] Branch and Bound  
-- [ ] Programação Dinâmica
+- [ ] Dynamic Programming
 
-### Teoria da Computação
-- [ ] Autômatos finitos  
-- [ ] Gramáticas formais  
-- [ ] Máquinas de Turing (básico)
-
----
-
-## 🌐 Computação Aplicada
-
-### Banco de Dados
-- [ ] Modelo relacional  
-- [ ] SQL: SELECT, INSERT, UPDATE, DELETE  
-- [ ] JOINs  
-- [ ] Normalização
-
-### Redes e Sistemas
-- [ ] Modelo OSI / TCP-IP  
-- [ ] HTTP / HTTPS  
-- [ ] Sockets e IP  
-- [ ] Processos e Threads  
-- [ ] Concorrência  
-- [ ] Gerência de memória (heap e stack)
+### Theoretical Foundations
+- [ ] Finite Automata  
+- [ ] Formal Grammars  
+- [ ] Turing Machines (basic)
 
 ---
 
-## 🧰 Prática Profissional
+## 🌐 Applied Computing
 
-- [ ] Git básico (add, commit, push, pull)  
-- [ ] Git branching e merge  
-- [ ] Testes unitários  
-- [ ] TDD (Test Driven Development)  
-- [ ] Uso de IDEs (VS Code, IntelliJ, etc.)  
-- [ ] Debugger e Profiler  
-- [ ] Linter / Formatter
+### Databases
+- [ ] Relational Model  
+- [X] SQL: SELECT, INSERT, UPDATE, DELETE  
+- [ ] JOIN operations  
+- [ ] Normalization
+
+### Networking & Systems
+- [ ] OSI / TCP-IP Models  
+- [ ] HTTP / HTTPS Protocols  
+- [ ] IP and Socket Basics  
+- [ ] Processes and Threads  
+- [ ] Concurrency Concepts  
+- [ ] Memory Management (heap and stack)
 
 ---
 
-## 💡 Matemática e Lógica
+## 🧰 Professional Practice
 
-- [ ] Lógica proposicional e booleana  
-- [ ] Aritmética modular  
-- [ ] Fatorial, permutação e combinação  
-- [ ] Probabilidade básica  
-- [ ] Matrizes  
-- [ ] Álgebra linear básica (vetores, produto escalar)
+- [X] Git Basics (add, commit, push, pull)  
+- [X] Git Branching and Merging  
+- [ ] Unit Testing  
+- [ ] Test-Driven Development (TDD)  
+- [X] IDE Usage (VS Code, IntelliJ, etc.)  
+- [X] Debugging and Profiling Tools  
+- [ ] Linters and Formatters
+
+---
+
+## 💡 Math and Logic
+
+- [X] Propositional and Boolean Logic  
+- [ ] Modular Arithmetic  
+- [X] Factorials, Permutations, Combinations  
+- [X] Basic Probability  
+- [X] Matrices  
+- [X] Basic Linear Algebra (vectors, dot product)
